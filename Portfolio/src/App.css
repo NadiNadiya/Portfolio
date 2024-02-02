@@ -1,0 +1,35 @@
+body {
+  background-color: #333;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.project {
+  margin: 20px;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
