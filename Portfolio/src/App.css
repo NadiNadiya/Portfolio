@@ -1,5 +1,4 @@
 body {
-  background-color: #390f40;
   color: #fff;
   font-family: 'Arial', sans-serif;
   display: flex;
@@ -32,4 +31,7 @@ img {
   height: 200px;
   object-fit: cover;
   border-radius: 8px;
+}
+html {
+  overflow-y: scroll !important; /* Always show vertical scrollbar */
 }
