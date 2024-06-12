@@ -1,2 +1,2 @@
 # Portfolio
-This page is under development 🛠️
+This portfolio is a collection of my projects, using HTML, CSS3, JavaScript, Reac.js, Node.js, Sass, Bootstrap, MongoDB, JSX, Cloudinary and other.
